@@ -1,5 +1,5 @@
 # Titian-Chondritic-Outgassing
-Outgassed species from the Murchison meteorite that could potentially be linked to Titian's secondary atmosphere.
+Outgassed Species From the Murchison Meteorite that Could Potentially be Linked to Titian's Secondary Atmosphere
 
 
 We conducted a steady heating scheme and measured species that were particular to Titan's atmosphere.
